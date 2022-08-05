@@ -1,0 +1,27 @@
+*{
+    /* background-color: blue; */
+    padding: 10px;
+}
+form{
+    background-color: white;
+    justify-self: center;
+    padding: 10px;
+    margin-right: 800px;
+    margin-left: 100px;
+}
+.first{
+    background-color: blue;
+}
+.button{
+    background-color: blue;
+}
+.second{
+    background-color: blue;
+    display: flex;
+}
+main{
+    border: 5px solid;
+    border-radius: 2%;
+    background-color: rgb(8, 23, 161);
+    
+}
