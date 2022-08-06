@@ -1,27 +1,27 @@
 *{
-    /* background-color: blue; */
+    background-color: blue;
     padding: 10px;
 }
 form{
-    background-color: white;
+    background-color: rgb(54, 12, 172);
     justify-self: center;
     padding: 10px;
-    margin-right: 800px;
+    margin-right: 500px;
     margin-left: 100px;
 }
 .first{
-    background-color: blue;
+    background-color: white;
 }
 .button{
-    background-color: blue;
+    background-color: white;
 }
 .second{
-    background-color: blue;
+    background-color: rgb(227, 227, 245);
     display: flex;
 }
 main{
-    border: 5px solid;
-    border-radius: 2%;
-    background-color: rgb(8, 23, 161);
+    /* border: 5px solid;
+    border-radius: 2%; */
+    background-color: rgb(163, 165, 173);
     
 }

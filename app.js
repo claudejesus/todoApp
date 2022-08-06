@@ -1,8 +1,8 @@
-function sayHello(name) {
-    console.log('Hello ' + name);
-}
+// function sayHello(name) {
+//     console.log('Hello ' + name);
+// }
 
-sayHello('claude'); 
+// sayHello('claude'); 
 //console.log(window);
 
 // console.log();
@@ -11,6 +11,8 @@ sayHello('claude');
 
 // setTimeout();
 // clearTimeout();
+// var message = '';
+// console.log(global.message);
 
-var message = '';
-console.log(global.message);
+var logger = require('./logger');
+console.log('message');
